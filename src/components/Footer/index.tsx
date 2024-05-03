@@ -22,8 +22,8 @@ export function Footer() {
                         <li>Política de Privaciade</li>
                     </div>
                     <ul className='ml-10 space-y-4 '>
-                    <li className='flex flex-row items-center' ><img src={Instagram} alt="" />@BardoZe</li>
-                    <li className='flex flex-row items-center' ><img src={Email} alt="" />contato@gmail.com</li>
+                    <li className='flex flex-row items-center'><img src={Instagram} alt="Instagram Icon"/>@ BardoZe</li>
+                    <li className='flex flex-row items-center'><img src={Email} alt="Email Icon"/> contato@gmail.com</li>
                     </ul>
                 </div>
                     <p className=' mt-5 flex justify-end '>2024 &copy; Rafael Souza</p>
